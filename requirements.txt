@@ -1,0 +1,5 @@
+# Dependencias de la plataforma de monitoreo.
+# Instalar con:  pip install -r requirements.txt  (dentro del venv)
+fastapi
+uvicorn
+scapy
